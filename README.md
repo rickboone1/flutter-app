@@ -1,2 +1,2 @@
 # flutter-app
-Meu primeiro aplicativo Flutter verisonado no GitHub.
+Meu primeiro aplicativo Flutter versionado no GitHub.
